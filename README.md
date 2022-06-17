@@ -3,8 +3,8 @@ recipe APP | React + Edamam API
 
 In the project directory  you need to run 
 
-first npm install <br />
-then  npm start
+first   ``` npm install  ```  <br />
+then   ```  npm start   ``` 
 
 
 Runs the app in the development mode..<br />
